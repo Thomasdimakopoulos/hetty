@@ -4,5 +4,5 @@
 /cmd/hetty/admin
 *.pem
 *.test
-config.bat
 node_modules
+config.bat
